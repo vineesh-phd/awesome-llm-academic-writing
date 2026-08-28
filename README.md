@@ -175,4 +175,4 @@ This repository's reference list — including the AI-assisted paper's own citat
 
 ## License
 
-Original content (this README, the audit, and the paper) is licensed under the MIT License — see [LICENSE](LICENSE). Linked external papers and resources remain under their own copyright/license.
+Original content (this README, the audit, and the paper) is unlicensed. Linked external papers and resources remain under their own copyright/license.
